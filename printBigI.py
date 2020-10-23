@@ -1,0 +1,9 @@
+print('''
+     III
+      I
+      I
+      I
+      I
+      I
+     III
+''')
