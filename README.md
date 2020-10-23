@@ -1,2 +1,2 @@
 # lab3part1
-[Link](
+[Link](docs/lab3part1.md)
